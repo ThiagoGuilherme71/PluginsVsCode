@@ -1,3 +1,9 @@
+# 👨‍💻 Thiago Guilherme
+
+🚀 Acompanhe meu tempo de codificação no WakaTime:  
+[![Meu perfil no WakaTime](https://wakatime.com/badge/user/ThiagoGuilherme71.svg)](https://wakatime.com/@ThiagoGuilherme71)
+
+
 # 🛠️ Extensões Essenciais para Desenvolvimento PHP, Laravel e Frontend no VS Code
 
 Aqui está uma seleção das principais extensões que uso para desenvolver com **PHP**, **Laravel**, **Frontend**, e ferramentas auxiliares no **Visual Studio Code**.
