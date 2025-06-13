@@ -2,7 +2,7 @@
 
 🚀 Acompanhe meu tempo de codificação no WakaTime:  
 
-[<[🧠  Meu perfil no WakaTime]/>](https://wakatime.com/@ThiagoGuilherme71)
+[<🧠  Meu perfil no WakaTime/>](https://wakatime.com/@ThiagoGuilherme71)
 
 # 🛠️ Extensões Essenciais para Desenvolvimento PHP, Laravel e Frontend no VS Code
 
