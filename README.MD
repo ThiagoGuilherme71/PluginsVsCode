@@ -6,7 +6,10 @@ Aqui você vai encontrar:
 - 🔌 Meus plugins favoritos para produtividade
 - 🧰 Como está estruturado meu ambiente de desenvolvimento atual
 - 💬 Fique à vontade para replicar, adaptar e me contar o que achou!
+## 🤝 Vamos trocar uma ideia?
 
+Se quiser bater um papo, tirar dúvidas ou compartilhar ideias, me chama no LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/Thiago%20Guilherme-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagoguilhermebarbosa/)
 ---
 
 [<🧠  Meu perfil no WakaTime/>](https://wakatime.com/@ThiagoGuilherme71)
