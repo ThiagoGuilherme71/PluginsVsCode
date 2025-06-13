@@ -1,6 +1,13 @@
-# 👨‍💻 Thiago Guilherme
+# 👨‍💻 Bem-vindo ao meu Setup de Desenvolvimento!
 
-🚀 Acompanhe meu tempo de codificação, SO / IDE + utilizados , commits e stack's no WakaTime:  
+Aqui você vai encontrar:
+
+- ⏱️ Meu perfil no WakaTime (e como começar a usá-lo)
+- 🔌 Meus plugins favoritos para produtividade
+- 🧰 Como está estruturado meu ambiente de desenvolvimento atual
+- 💬 Fique à vontade para replicar, adaptar e me contar o que achou!
+
+---
 
 [<🧠  Meu perfil no WakaTime/>](https://wakatime.com/@ThiagoGuilherme71)
 
