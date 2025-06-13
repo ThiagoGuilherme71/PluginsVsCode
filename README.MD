@@ -1,10 +1,8 @@
 # 👨‍💻 Thiago Guilherme
 
 🚀 Acompanhe meu tempo de codificação no WakaTime:  
-<img src="https://i.imgur.com/8v7HLtU.png" alt="Robô Dev" width="100"/>
 
 [![Meu perfil no WakaTime](https://wakatime.com/badge/user/ThiagoGuilherme71.svg)](https://wakatime.com/@ThiagoGuilherme71)
-
 
 # 🛠️ Extensões Essenciais para Desenvolvimento PHP, Laravel e Frontend no VS Code
 
