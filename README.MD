@@ -1,6 +1,6 @@
 # 👨‍💻 Thiago Guilherme
 
-🚀 Acompanhe meu tempo de codificação no WakaTime:  
+🚀 Acompanhe meu tempo de codificação, SO / IDE + utilizados , commits e stack's no WakaTime:  
 
 [<🧠  Meu perfil no WakaTime/>](https://wakatime.com/@ThiagoGuilherme71)
 
